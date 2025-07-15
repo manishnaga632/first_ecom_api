@@ -39,3 +39,19 @@ python-multipart
 
 # Time Zone Handling
 pytz
+
+
+# Ignore environment files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+
+
+

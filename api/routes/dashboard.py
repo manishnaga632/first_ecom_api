@@ -17,6 +17,3 @@ def dashboard_analytics(db: Session = Depends(get_db)):
     }
     
     return analytics_data
-
-
-
